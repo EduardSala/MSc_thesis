@@ -19,3 +19,9 @@ My Master of Sciences thesis.
  Moreover, several bias correction techniques are applied to calibrate satellite data against
  in-situ data to improve the quality of satellite assimilated dataset, aligning it more closely
  with in-situ and and unlock their potential in providing environmental insights.
+
+
+# Instructions
+'Module_all_functions.py' contains all the functions that have been used in the whole project thesis.
+While 'Spatio_temporal.py' contains the  algorithm used to make the spatio-temporal analysis with the co-location techniques.
+Within 'calibration.py' 4 different Bias correction techniques have been applied to 10 satellite datasets (contains also different plots). 
